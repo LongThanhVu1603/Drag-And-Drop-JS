@@ -48,19 +48,20 @@ body {
     width: 60px;
 }
 
-.draggable-list li.over .draggable {
+.draggable-list li.over .draggable{
     background-color: #eaeaea;
+    color: #eaeaea;
 }
 
-.draggable-list .person-name {
+.draggable-list .film-name {
     margin: 0 20px 0 0;
 }
 
-.draggable-list li.right .person-name {
+.draggable-list li.right .film-name {
     color: #3ae374;
 }
 
-.draggable-list li.wrong .person-name {
+.draggable-list li.wrong .film-name {
     color: #ff3838;
 }
 
